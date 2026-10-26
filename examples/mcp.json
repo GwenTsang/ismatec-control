@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ismatec": {
+      "command": "python3",
+      "args": ["/absolute/path/to/ismatec-control/pump.py", "mcp"]
+    }
+  }
+}
